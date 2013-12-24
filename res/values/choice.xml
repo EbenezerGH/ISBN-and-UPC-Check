@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="isbn_array">
+        <item>UPC</item>
+        <item>ISBN</item>
+    </string-array>
+
+</resources>

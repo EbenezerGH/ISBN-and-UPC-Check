@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Math 326 Project</string>
+    <string name="hello_world">UPC Checker</string>
+    <string name="check">Check</string>
+    <string name="name">Ebenezer Ackon</string>
+    <string name="valid">valid</string>
+    <string name="classe">Discrete Analysis for Computer Engineers</string>
+    <string name="definition">Universal Product Codes consist of a sequence of 12 numerical digits.		3(sum of digits in odd positions) +(sum of digits in even positions) Mod 10 = 0</string>
+
+</resources>
